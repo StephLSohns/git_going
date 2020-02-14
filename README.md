@@ -5,3 +5,5 @@ practice resolving merge conflict
 When working with one or more collaborators, it is
 almost inevitable that the team or group will run into
 merge conflicts.
+What can be done???
+Ask the wise WIZARD

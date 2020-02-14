@@ -2,4 +2,6 @@
 practice resolving merge conflict
 
 ## Once upon a time...
-We creatd a repo.  It was the most beautiful repo in the kingdom.  All the people in the land loved the kingdom.  All but one...
+When working with one or more collaborators, it is
+almost inevitable that the team or group will run into
+merge conflicts.

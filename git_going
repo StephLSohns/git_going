@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>CREATING A MERGE CONFLICT</h1>
+    <section>
+    <p>When working with one or more collaborators, it is
+    almost inevitable that the team or group will run into
+    merge conflicts.</p>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>
